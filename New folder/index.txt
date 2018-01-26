@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en"?>
+<head>
+<title>Accounting Software</title>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+</head>
+<body>
+    <div class="container">
+       <div class="row">
+           <div class="col-md-4">
+              <img class="img-circle" src="http://placehold.it/140x140" />
+              <h2>Heading</h2>
+              <p>donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+<p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+</div>
+<div class="col-md-4">
+              <img class="img-circle" src="http://placehold.it/140x140" />
+              <h2>Heading</h2>
+              <p>donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+<p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+</div>
+<div class="col-md-4">
+              <img class="img-circle" src="http://placehold.it/140x140" />
+              <h2>Heading</h2>
+              <p>donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+<p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+</div>
+
+       </div>
+    </div>
+
+</body>
+
+
+
+</html>
